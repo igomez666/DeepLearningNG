@@ -1,0 +1,28 @@
+# PyTorch con CUDA 13 (DGX Spark / aarch64)
+--extra-index-url https://download.pytorch.org/whl/cu130
+torch
+torchvision
+
+# Data science
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+plotly
+statsmodels
+tqdm
+
+# Jupyter
+jupyterlab
+ipykernel
+ipywidgets
+
+# Deep learning / cuadernos
+keras
+keras-tuner
+imbalanced-learn
+onnx
+onnxscript
+onnxruntime
